@@ -1,0 +1,15 @@
+C:\Backend_Mastery\Day2_Value_Reference\bin\Debug\net10.0\Day2_ValueReference.exe
+C:\Backend_Mastery\Day2_Value_Reference\bin\Debug\net10.0\Day2_ValueReference.deps.json
+C:\Backend_Mastery\Day2_Value_Reference\bin\Debug\net10.0\Day2_ValueReference.runtimeconfig.json
+C:\Backend_Mastery\Day2_Value_Reference\bin\Debug\net10.0\Day2_ValueReference.dll
+C:\Backend_Mastery\Day2_Value_Reference\bin\Debug\net10.0\Day2_ValueReference.pdb
+C:\Backend_Mastery\Day2_Value_Reference\obj\Debug\net10.0\Day2_ValueReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend_Mastery\Day2_Value_Reference\obj\Debug\net10.0\Day2_ValueReference.AssemblyInfoInputs.cache
+C:\Backend_Mastery\Day2_Value_Reference\obj\Debug\net10.0\Day2_ValueReference.AssemblyInfo.cs
+C:\Backend_Mastery\Day2_Value_Reference\obj\Debug\net10.0\Day2_ValueReference.csproj.CoreCompileInputs.cache
+C:\Backend_Mastery\Day2_Value_Reference\obj\Debug\net10.0\Day2_ValueReference.sourcelink.json
+C:\Backend_Mastery\Day2_Value_Reference\obj\Debug\net10.0\Day2_ValueReference.dll
+C:\Backend_Mastery\Day2_Value_Reference\obj\Debug\net10.0\refint\Day2_ValueReference.dll
+C:\Backend_Mastery\Day2_Value_Reference\obj\Debug\net10.0\Day2_ValueReference.pdb
+C:\Backend_Mastery\Day2_Value_Reference\obj\Debug\net10.0\Day2_ValueReference.genruntimeconfig.cache
+C:\Backend_Mastery\Day2_Value_Reference\obj\Debug\net10.0\ref\Day2_ValueReference.dll

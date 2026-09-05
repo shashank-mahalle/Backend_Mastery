@@ -1,0 +1,15 @@
+C:\Backend_Mastery\Day03_StackHeap\bin\Debug\net10.0\Day03_StackHeap.exe
+C:\Backend_Mastery\Day03_StackHeap\bin\Debug\net10.0\Day03_StackHeap.deps.json
+C:\Backend_Mastery\Day03_StackHeap\bin\Debug\net10.0\Day03_StackHeap.runtimeconfig.json
+C:\Backend_Mastery\Day03_StackHeap\bin\Debug\net10.0\Day03_StackHeap.dll
+C:\Backend_Mastery\Day03_StackHeap\bin\Debug\net10.0\Day03_StackHeap.pdb
+C:\Backend_Mastery\Day03_StackHeap\obj\Debug\net10.0\Day03_StackHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend_Mastery\Day03_StackHeap\obj\Debug\net10.0\Day03_StackHeap.AssemblyInfoInputs.cache
+C:\Backend_Mastery\Day03_StackHeap\obj\Debug\net10.0\Day03_StackHeap.AssemblyInfo.cs
+C:\Backend_Mastery\Day03_StackHeap\obj\Debug\net10.0\Day03_StackHeap.csproj.CoreCompileInputs.cache
+C:\Backend_Mastery\Day03_StackHeap\obj\Debug\net10.0\Day03_StackHeap.sourcelink.json
+C:\Backend_Mastery\Day03_StackHeap\obj\Debug\net10.0\Day03_StackHeap.dll
+C:\Backend_Mastery\Day03_StackHeap\obj\Debug\net10.0\refint\Day03_StackHeap.dll
+C:\Backend_Mastery\Day03_StackHeap\obj\Debug\net10.0\Day03_StackHeap.pdb
+C:\Backend_Mastery\Day03_StackHeap\obj\Debug\net10.0\Day03_StackHeap.genruntimeconfig.cache
+C:\Backend_Mastery\Day03_StackHeap\obj\Debug\net10.0\ref\Day03_StackHeap.dll

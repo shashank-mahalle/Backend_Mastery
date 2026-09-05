@@ -1,0 +1,15 @@
+C:\Backend_Mastery\Day04_StackFrames\bin\Debug\net10.0\Day04_StackFrames.exe
+C:\Backend_Mastery\Day04_StackFrames\bin\Debug\net10.0\Day04_StackFrames.deps.json
+C:\Backend_Mastery\Day04_StackFrames\bin\Debug\net10.0\Day04_StackFrames.runtimeconfig.json
+C:\Backend_Mastery\Day04_StackFrames\bin\Debug\net10.0\Day04_StackFrames.dll
+C:\Backend_Mastery\Day04_StackFrames\bin\Debug\net10.0\Day04_StackFrames.pdb
+C:\Backend_Mastery\Day04_StackFrames\obj\Debug\net10.0\Day04_StackFrames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend_Mastery\Day04_StackFrames\obj\Debug\net10.0\Day04_StackFrames.AssemblyInfoInputs.cache
+C:\Backend_Mastery\Day04_StackFrames\obj\Debug\net10.0\Day04_StackFrames.AssemblyInfo.cs
+C:\Backend_Mastery\Day04_StackFrames\obj\Debug\net10.0\Day04_StackFrames.csproj.CoreCompileInputs.cache
+C:\Backend_Mastery\Day04_StackFrames\obj\Debug\net10.0\Day04_StackFrames.sourcelink.json
+C:\Backend_Mastery\Day04_StackFrames\obj\Debug\net10.0\Day04_StackFrames.dll
+C:\Backend_Mastery\Day04_StackFrames\obj\Debug\net10.0\refint\Day04_StackFrames.dll
+C:\Backend_Mastery\Day04_StackFrames\obj\Debug\net10.0\Day04_StackFrames.pdb
+C:\Backend_Mastery\Day04_StackFrames\obj\Debug\net10.0\Day04_StackFrames.genruntimeconfig.cache
+C:\Backend_Mastery\Day04_StackFrames\obj\Debug\net10.0\ref\Day04_StackFrames.dll
