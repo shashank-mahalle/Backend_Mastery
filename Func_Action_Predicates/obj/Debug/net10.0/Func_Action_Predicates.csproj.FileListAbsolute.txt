@@ -1,0 +1,15 @@
+C:\Backend_Mastery\Func_Action_Predicates\bin\Debug\net10.0\Func_Action_Predicates.exe
+C:\Backend_Mastery\Func_Action_Predicates\bin\Debug\net10.0\Func_Action_Predicates.deps.json
+C:\Backend_Mastery\Func_Action_Predicates\bin\Debug\net10.0\Func_Action_Predicates.runtimeconfig.json
+C:\Backend_Mastery\Func_Action_Predicates\bin\Debug\net10.0\Func_Action_Predicates.dll
+C:\Backend_Mastery\Func_Action_Predicates\bin\Debug\net10.0\Func_Action_Predicates.pdb
+C:\Backend_Mastery\Func_Action_Predicates\obj\Debug\net10.0\Func_Action_Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend_Mastery\Func_Action_Predicates\obj\Debug\net10.0\Func_Action_Predicates.AssemblyInfoInputs.cache
+C:\Backend_Mastery\Func_Action_Predicates\obj\Debug\net10.0\Func_Action_Predicates.AssemblyInfo.cs
+C:\Backend_Mastery\Func_Action_Predicates\obj\Debug\net10.0\Func_Action_Predicates.csproj.CoreCompileInputs.cache
+C:\Backend_Mastery\Func_Action_Predicates\obj\Debug\net10.0\Func_Action_Predicates.sourcelink.json
+C:\Backend_Mastery\Func_Action_Predicates\obj\Debug\net10.0\Func_Action_Predicates.dll
+C:\Backend_Mastery\Func_Action_Predicates\obj\Debug\net10.0\refint\Func_Action_Predicates.dll
+C:\Backend_Mastery\Func_Action_Predicates\obj\Debug\net10.0\Func_Action_Predicates.pdb
+C:\Backend_Mastery\Func_Action_Predicates\obj\Debug\net10.0\Func_Action_Predicates.genruntimeconfig.cache
+C:\Backend_Mastery\Func_Action_Predicates\obj\Debug\net10.0\ref\Func_Action_Predicates.dll

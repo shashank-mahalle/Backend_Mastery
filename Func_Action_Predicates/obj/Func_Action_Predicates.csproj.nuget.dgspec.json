@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Backend_Mastery\\Delegates\\Delegates.csproj": {}
+    "C:\\Backend_Mastery\\Func_Action_Predicates\\Func_Action_Predicates.csproj": {}
   },
   "projects": {
-    "c:\\Backend_Mastery\\Delegates\\Delegates.csproj": {
+    "C:\\Backend_Mastery\\Func_Action_Predicates\\Func_Action_Predicates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Backend_Mastery\\Delegates\\Delegates.csproj",
-        "projectName": "Delegates",
-        "projectPath": "c:\\Backend_Mastery\\Delegates\\Delegates.csproj",
+        "projectUniqueName": "C:\\Backend_Mastery\\Func_Action_Predicates\\Func_Action_Predicates.csproj",
+        "projectName": "Func_Action_Predicates",
+        "projectPath": "C:\\Backend_Mastery\\Func_Action_Predicates\\Func_Action_Predicates.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "c:\\Backend_Mastery\\Delegates\\obj\\",
+        "outputPath": "C:\\Backend_Mastery\\Func_Action_Predicates\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
